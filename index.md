@@ -9,9 +9,10 @@ I recently started a technical blog, [*Simplicity is SOTA*](https://simplicityis
 
 * * *
 
-I am an avid reader of books, papers, articles, newspapers, newsletters — anything, really. I'm
-always excited to find intellectually curious folks, to share ideas with or collaborate. See
-below for some of my interests. Don't be shy about reaching out if you would like to talk or I could be of some help to you. 
+I am an avid reader of books, papers, articles, newspapers, newsletters — anything, really. See
+the list below for some of the topics I like to read about. I'm
+always excited to find intellectually curious folks, to share ideas with or collaborate. 
+Don't be shy about reaching out if you would like to talk or I could be of some help to you. 
 
 <dl>
 <dt>Machine learning</dt>
