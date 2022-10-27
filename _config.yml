@@ -3,7 +3,7 @@ logo: /assets/img/headshot_b.jpeg
 email: rdemsynjones@gmail.com
 #description: Minimalist is a theme powered by Jekyll. It is modified based on the Minimal theme.
 show_downloads: false
-#google_analytics: UA-67209377-1
+google_analytics: G-GM1YFT9891
 color-scheme: light
 favicon: true
 plugins:
