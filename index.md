@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hi! I'm Richard Demsyn-Jones. <img class="profile-picture" src="assets/img/headshot_b.jpeg"> I work at Thumbtack, where I manage data scientists and engineers in
+Hi! I'm Richard Demsyn-Jones. <img class="profile-picture" src="assets/img/headshot_b.jpeg"> I work at Thumbtack, where I manage applied scientists and engineers in
 our Marketplace and ML Infra teams.
 
 I recently started a technical blog, [*Simplicity is SOTA*](https://simplicityissota.substack.com), on machine learning, engineering, and marketplaces. Check it out!
@@ -10,7 +10,7 @@ I recently started a technical blog, [*Simplicity is SOTA*](https://simplicityis
 * * *
 
 I am an avid reader of books, papers, articles, newspapers, newsletters — anything, really. See
-the list below for some of the topics I like to read about. I'm
+the list below for a sample of the topics I spend my time reading about. I'm
 always excited to find intellectually curious folks, to share ideas with or collaborate. 
 Don't be shy about reaching out if you would like to talk or I could be of some help to you. 
 
@@ -34,17 +34,3 @@ Don't be shy about reaching out if you would like to talk or I could be of some 
 </dl>
 
 * * *
-
-## Papers
-
-**Measurement and applications of position bias in a marketplace search engine**  
-<u>Richard Demsyn-Jones</u>  
-*arXiv*. 2022  
-[pdf](https://arxiv.org/abs/2206.11720)
-
-**Misadventures in Monte Carlo**  
-<u>Richard Demsyn-Jones</u>  
-*Journal of Sports Analytics 5 (1), 1-15*. 2018  
-[pdf](https://content.iospress.com/download/journal-of-sports-analytics/jsa220?id=journal-of-sports-analytics%2Fjsa220) | [html](https://content.iospress.com/articles/journal-of-sports-analytics/jsa220)
-
-
