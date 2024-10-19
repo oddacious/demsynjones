@@ -5,7 +5,7 @@ layout: default
 Hi! I'm Richard Demsyn-Jones. <img class="profile-picture" src="assets/img/headshot_b.jpeg"> I work at Thumbtack, where I manage applied scientists and engineers in
 our Marketplace and ML Infra teams.
 
-I recently started a technical blog, [*Simplicity is SOTA*](https://simplicityissota.substack.com), on machine learning, engineering, and marketplaces. Check it out!
+I write a technical blog, [*Simplicity is SOTA*](https://simplicityissota.substack.com), on machine learning, engineering, and marketplaces. Check it out!
 
 * * *
 
